@@ -166,14 +166,14 @@ export const project = [
     image: "",
     tags: ["React Js", "Local Storage", "AWS Auth", "Node JS"],
     category: "web app",
-    github: "",
-    webapp: "",
+    github: "https://github.com/Nikks-13/ToDo-App",
+    webapp: "https://nixxtodo.netlify.app/",
     member: [
       {
         name: "Nikhil Kumar singh",
-        img: "",
-        linkedin: "",
-        github: "",
+        img: "https://avatars.githubusercontent.com/u/90950696?s…00&u=717b5dfdfb3285ba0f5678169c712181300252fd&v=4",
+        linkedin: "https://www.linkedin.com/in/nikhil-kumar-singh-8840aa222",
+        github: "https://github.com/Nikks-13",
       }
     ],
   },

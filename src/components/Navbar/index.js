@@ -17,7 +17,7 @@ const Nav = styled.div`
     font-size: 1rem;
     position: sticky;
     top: 0;
-    z-index: 1;
+    z-index: 2;
     @media (max-width: 960px) {
         trastion: 0.8s all ease;
     }
@@ -149,52 +149,7 @@ const MobileMenu = styled.div`
 
 `
 
-const MobileMenuItems = styled.ul`
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  gap: 32px;
-  list-style: none;
-  width: 100%;
-  height: 100%;
-`
 
-const MobileMenuLink = styled(LinkR)`
-  color: ${({ theme }) => theme.text_primary};
-  font-weight: 500;
-  cursor: pointer;
-  transition: all 0.2s ease-in-out;
-  text-decoration: none;
-  :hover {
-    color: ${({ theme }) => theme.primary};
-  }
-
-  &.active {
-    border-bottom: 2px solid ${({ theme }) => theme.primary};
-  }
-`;
-
-const MobileMenuButton = styled.a`
-  border: 1.8px solid ${({ theme }) => theme.primary};
-  justify-content: center;
-  display: flex;
-  align-items: center;
-  height: 70%;
-  border-radius: 20px;
-  color: ${({ theme }) => theme.primary};
-  cursor: pointer;
-  padding: 0 20px;
-  font-weight: 500;
-  text-decoration: none;
-  font-size: 16px;
-  transition: all 0.6s ease-in-out;
-
-  :hover {
-    background: ${({ theme }) => theme.primary};
-    color: ${({ theme }) => theme.white};
-  }
-`;
 
 const MobileLink = styled.a`
   color: ${({ theme }) => theme.text_primary};
@@ -211,17 +166,6 @@ const MobileLink = styled.a`
   }
 `;
 
-const MobileNavLogo = styled(LinkR)`
-  width: 80%;
-  padding: 0 6px;
-  display: flex;
-  justify-content: start;
-  align-items: center;
-  text-decoration: none;
-  @media (max-width: 640px) {
-    padding: 0 0px;
-  }
-`;
 
 
 const Navbar = () => {
@@ -231,9 +175,9 @@ const Navbar = () => {
     <Nav>
       <NavContainer>
       <NavLogo to='/'>
-          <a style={{ display: "flex", alignItems: "center", color: "white", marginBottom: '20;', cursor: 'pointer' }}>
+          <div style={{ display: "flex", alignItems: "center", color: "white", marginBottom: '20;', cursor: 'pointer' }}>
             <CgCircleci size="2rem"/><Span>Portfolio</Span>
-          </a>
+          </div>
         </NavLogo>
         <MobileIcon>
         <FaBars onClick={() => {
