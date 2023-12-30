@@ -64,6 +64,14 @@ export const skills = [
   {
     title: "Backend",
     skills: [
+      {
+        name: "Node Js",
+        image:"https://icon.icepanel.io/Technology/svg/Node.js.svg",
+      },
+      {
+        name: "Express Js",
+        image:"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg",
+      },
       
       {
         name: "Python",
@@ -93,7 +101,7 @@ export const skills = [
       {
         name: "Git",
         image:
-          "https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667",
+        "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg",
       },
       {
         name: "GitHub",
@@ -114,12 +122,11 @@ export const skills = [
       {
         name: "Postman",
         image:
-          "https://camo.githubusercontent.com/93b32389bf746009ca2370de7fe06c3b5146f4c99d99df65994f9ced0ba41685/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667",
+          "https://icon.icepanel.io/Technology/svg/Postman.svg",
       },
       {
         name: "Figma",
-        image:
-          "https://camo.githubusercontent.com/ed93c2b000a76ceaad1503e7eb9356591b885227e82a36a005b9d3498b303ba5/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6669676d612f6669676d612d69636f6e2e737667",
+        image:"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" ,
       },
     ],
   },
@@ -220,11 +227,11 @@ export const project = [
     title: "PortFolio",
     date: "Dec 2023",
     description:" Welcome to my digital space! I am Nikhil kumar Singh, a passionate and detail-oriented front-end developer with a keen eye for creating engaging and user-friendly web experiences. ",
-    image:"link",
+    image:"https://github.com/Nikks-13/Portfolio/main/screenshots/1.png",
     tags: ["React Js","Material UI"],
     category: "web app",
-    github: "link",
-    webapp: "link",
+    github: "https://github.com/Nikks-13/Portfolio",
+    webapp: "https://nixx.netlify.app/",
     member: [
       {
         name: "Nikhil Kumar singh",
