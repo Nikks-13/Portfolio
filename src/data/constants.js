@@ -182,11 +182,11 @@ export const project = [
     title: "Discord Look-Up",
     date: "Nov 2023",
     description: "Introducing a dynamic Discord User Lookup web app that seamlessly retrieves and displays detailed user information, providing a streamlined experience for exploring and understanding Discord profiles with ease.",
-    image: "",
-    tags: ["React Js","Fast API","Python", "Flask",],
+    image: "https://raw.githubusercontent.com/Nikks-13/discord_Lookup_frontend/main/screenshots/1.png",
+    tags: ["React Js","Node Js","Discord API", "Express.js","Fetch API",],
     category: "web app",
-    github: "link",
-    webapp: "link",
+    github: "https://github.com/Nikks-13/discord_Lookup_frontend",
+    webapp: "https://nixx-discord-lookup.netlify.app/",
     member: [
       {
         name: "Nikhil Kumar singh",
