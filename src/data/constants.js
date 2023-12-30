@@ -162,9 +162,9 @@ export const project = [
     id: 0,
     title: "ToDo Web App",
     date: "Oct 2023",
-    description: "A Todo Web App made with React JS, Redux, and Material UI. It has a login page where users can log in with their Google account. It has a sidebar where users can see all the tasks and can create a new task. It has a calendar where users can see all the tasks on a particular date. It has a search bar where users can search for a particular task.",
-    image: "",
-    tags: ["React Js", "Local Storage", "AWS Auth", "Node JS"],
+    description: "A Simple Todo Web App made with React JS and Reactstrap, Where users can see all the tasks and can create, update and Delete tasks.",
+    image: "https://raw.githubusercontent.com/Nikks-13/ToDo-App/main/screenshots/Screenshot%20%200.png",
+    tags: ["React Js", "Local Storage", "ReactStrap"],
     category: "web app",
     github: "https://github.com/Nikks-13/ToDo-App",
     webapp: "https://nixxtodo.netlify.app/",
@@ -190,9 +190,9 @@ export const project = [
     member: [
       {
         name: "Nikhil Kumar singh",
-        img: "",
-        linkedin: "link",
-        github: "link",
+        img: "https://avatars.githubusercontent.com/u/90950696?s…00&u=717b5dfdfb3285ba0f5678169c712181300252fd&v=4",
+        linkedin: "https://www.linkedin.com/in/nikhil-kumar-singh-8840aa222",
+        github: "https://github.com/Nikks-13",
       }
     ],
   },
@@ -209,9 +209,9 @@ export const project = [
     member: [
       {
         name: "Nikhil Kumar singh",
-        img: "",
-        linkedin: "",
-        github: "",
+        img: "https://avatars.githubusercontent.com/u/90950696?s…00&u=717b5dfdfb3285ba0f5678169c712181300252fd&v=4",
+        linkedin: "https://www.linkedin.com/in/nikhil-kumar-singh-8840aa222",
+        github: "https://github.com/Nikks-13",
       }
     ],
   },
@@ -228,9 +228,9 @@ export const project = [
     member: [
       {
         name: "Nikhil Kumar singh",
-        img: "link",
-        linkedin: "link",
-        github: "link",
+        img: "https://avatars.githubusercontent.com/u/90950696?s…00&u=717b5dfdfb3285ba0f5678169c712181300252fd&v=4",
+        linkedin: "https://www.linkedin.com/in/nikhil-kumar-singh-8840aa222",
+        github: "https://github.com/Nikks-13",
       }
     ],
   },
