@@ -227,7 +227,7 @@ export const project = [
     title: "PortFolio",
     date: "Dec 2023",
     description:" Welcome to my digital space! I am Nikhil kumar Singh, a passionate and detail-oriented front-end developer with a keen eye for creating engaging and user-friendly web experiences. ",
-    image:"https://github.com/Nikks-13/Portfolio/main/screenshots/1.png",
+    image:"https://raw.githubusercontent.com/Nikks-13/Portfolio/main/screenshots/1.png",
     tags: ["React Js","Material UI"],
     category: "web app",
     github: "https://github.com/Nikks-13/Portfolio",
