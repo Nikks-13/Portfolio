@@ -101,11 +101,11 @@ const Project = ({ openModal, setOpenModal }) => {
         <ToggleButtonGroup>
           {toggle === "all" ? (
             <ToggleButton active value="all" onClick={() => setToggle("all")}>
-              Will Update Soon
+              Will Add Few More
             </ToggleButton>
           ) : (
             <ToggleButton value="all" onClick={() => setToggle("all")}>
-              Will Update Soon
+              Will Add Few More
             </ToggleButton>
           )}
         </ToggleButtonGroup>
