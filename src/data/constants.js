@@ -72,6 +72,10 @@ export const skills = [
         name: "Express Js",
         image:"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg",
       },
+      {
+        name: "FastAPI",
+        image:"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg",
+      },
       
       {
         name: "Python",
@@ -208,11 +212,11 @@ export const project = [
     title: "Steam Look-Up",
     date: "Nov 2023",
     description:"Developed a high-performance Steam User Lookup web application using FastAPI and integrated SteamAPI to seamlessly retrieve and showcase comprehensive user profiles.",
-    image:"",
+    image:"https://raw.githubusercontent.com/Nikks-13/Steam_LookUp_Frontend/main/screenshots/1.png",
     tags: ["Python", "Flask", "React Js", "Fast API", "Steam API"],
     category: "web app",
-    github: "link",
-    webapp: "link",
+    github: "https://github.com/Nikks-13/Steam_LookUp_Frontend",
+    webapp: "https://nixx-steam-lookup.netlify.app/",
     member: [
       {
         name: "Nikhil Kumar singh",
