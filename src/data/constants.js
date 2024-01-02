@@ -9,7 +9,7 @@ export const Bio = {
   description:
     "I'm always excited to tackle new things and learn. I work hard to get good results and stay positive, believing that I can keep growing and making a meaningful difference. I pick up things quickly and can easily adjust to different situations based on the given tasks. I'm ready to contribute and achieve great things.",
   github: "https://github.com/Nikks-13",
-  resume:"",
+  resume:"https://drive.google.com/file/d/18JxZPdVFITLxTmo75DldIi_A9GpCs3sY/view?usp=sharing",
   linkedin: "https://linkedin.com/in/nikhil-kumar-singh-8840aa222",
   twitter: "",
   insta: "",
