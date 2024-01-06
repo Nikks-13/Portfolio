@@ -244,7 +244,7 @@ export const project = [
     title: "Blog Web App",
     date: "Jan 2024",
     description: "A Blogging Web App made with Next JS adding soon",
-    image: "https://preview.canva.site/?target=https%3A%2F%2Fexport-download.canva.com%2FIbry0%2FDAF49WIbry0%2F16%2F4862050268242236652%2Findex.html%3FX-Amz-Algorithm%3DAWS4-HMAC-SHA256%26X-Amz-Credential%3DAKIAJHKNGJLC2J7OGJ6Q%252F20240104%252Fus-east-1%252Fs3%252Faws4_request%26X-Amz-Date%3D20240104T085932Z%26X-Amz-Expires%3D51340%26X-Amz-Signature%3D1cbf457f94f6956d31c21ac8937b3d41bc96ebfee69dd8d577426dfdf17326b2%26X-Amz-SignedHeaders%3Dhost%253Bx-amz-expected-bucket-owner%26response-expires%3DThu%252C%252004%2520Jan%25202024%252023%253A15%253A12%2520GMT",
+    image: "https://raw.githubusercontent.com/Nikks-13/Portfolio/main/src/data/soon%20page/Adding%20Soon!.png",
     tags: ["React Js","Next js","Firebase","Mongodb","Tailwind css","Node Js" ,"Material UI", "ReactStrap"],
     category: "web app",
     github: "",
