@@ -244,7 +244,7 @@ export const project = [
     title: "Blog Web App",
     date: "Jan 2024",
     description: "A Blogging Web App made with Next JS ",
-    image: "https://raw.githubusercontent.com/Nikks-13/Just_Blog/main/screenshot/1.png",
+    image: "https://github.com/Nikks-13/Just_Blog/assets/90950696/411f6dd7-c23d-4de8-9e2a-a0d29c69a67f",
     tags: ["React Js","Next js","Firebase","Mongodb","Prisma","Toastify","Google Oauth"],
     category: "web app",
     github: "https://github.com/Nikks-13/Just_Blog",
