@@ -243,11 +243,11 @@ export const project = [
     id: 4,
     title: "Blog Web App",
     date: "Jan 2024",
-    description: "A Blogging Web App made with Next JS adding soon",
-    image: "https://raw.githubusercontent.com/Nikks-13/Portfolio/main/src/data/soon%20page/Adding%20Soon!.png",
-    tags: ["React Js","Next js","Firebase","Mongodb","Tailwind css","Node Js" ,"Material UI", "ReactStrap"],
+    description: "A Blogging Web App made with Next JS ",
+    image: "https://raw.githubusercontent.com/Nikks-13/Just_Blog/main/screenshot/1.png",
+    tags: ["React Js","Next js","Firebase","Mongodb","Prisma","Toastify","Google Oauth"],
     category: "web app",
-    github: "",
+    github: "https://github.com/Nikks-13/Just_Blog",
     webapp: "",
     member: [
       {
