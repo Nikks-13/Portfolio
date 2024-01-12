@@ -257,7 +257,7 @@ export const project = [
     tags: ["React Js","Next js","Firebase","Mongodb","Prisma","Toastify","Google Oauth"],
     category: "web app",
     github: "https://github.com/Nikks-13/Just_Blog",
-    webapp: "",
+    webapp: "https://github.com/Nikks-13/Just_Blog",
     member: [
       {
         name: "Nikhil Kumar singh",
