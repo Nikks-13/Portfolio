@@ -252,7 +252,7 @@ export const project = [
     id: 4,
     title: "Blog Web App",
     date: "Jan 2024",
-    description: "A Blogging Web App made with Next JS ",
+    description: "A feature-rich Blogging Web App using Next.js, where users can seamlessly engage with content through a user-friendly interface. This project incorporates Google authentication for a secure and convenient login process, ensuring that only authenticated users can create posts and comment on them. The app is structured with multiple sections based on categories, providing a personalized experience for users to explore and contribute within their areas of interest. ",
     image: "https://raw.githubusercontent.com/Nikks-13/Just_Blog/main/screenshot/screenshot.png",
     tags: ["React Js","Next js","Firebase","Mongodb","Prisma","Toastify","Google Oauth"],
     category: "web app",
