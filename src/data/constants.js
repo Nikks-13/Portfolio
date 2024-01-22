@@ -297,7 +297,7 @@ export const project = [
     tags: ["React-Native","Lottie-Files","Async Storage","React-Toast","TypeScript"],
     category: "Mobile App",
     github: "https://github.com/Nikks-13/Just_Snaxx_App",
-    webapp: "",
+    webapp: "https://github.com/Nikks-13/Just_Snaxx_App/assets/90950696/c7c228b4-969e-4d85-8c35-a880ec5ef1dc",
     member: [
       {
         name: "Nikhil Kumar singh",
