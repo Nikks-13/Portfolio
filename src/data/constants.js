@@ -267,6 +267,46 @@ export const project = [
       }
     ],
   },
+  {
+    id: 5,
+    title: "Weather IOS App",
+    date: "Jan 2024",
+    description: "A Simple weather app using React Native, incorporating real-time weather data from a reliable API. One of the key features of the app is the seamless integration of async storage, allowing users to effortlessly save and retrieve last searched location weather . The app provides an intuitive and user-friendly interface, ensuring a smooth and enjoyable experience for users seeking accurate and up-to-date weather information.",
+    image: "https://raw.githubusercontent.com/Nikks-13/Weather-App/main/screenshort/home.png",
+    tags: ["React-Native","Weather API","Async Storage","Expo"],
+    category: "Mobile App",
+    github: "https://github.com/Nikks-13/Weather-App",
+    webapp: "https://private-user-images.githubusercontent.com/90950696/296507511-0a1e46c2-d0ed-4b68-bbef-783e2c838ca4.mp4?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDU5Mjc1NDksIm5iZiI6MTcwNTkyNzI0OSwicGF0aCI6Ii85MDk1MDY5Ni8yOTY1MDc1MTEtMGExZTQ2YzItZDBlZC00YjY4LWJiZWYtNzgzZTJjODM4Y2E0Lm1wND9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAxMjIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMTIyVDEyNDA0OVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWQ4NTc5YjFjMmI1NjUxMzhmMzVkMDgyNzE5Njc2MWVmZGI4ZTg2ZGM4MDYxMzdlZDA2ZTdkYWFjNWU5NmY0OTAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.hTRr18kgu1EivskGzz6OcS70K5kYK-UGWQpAJi6bcbs",
+    member: [
+      {
+        name: "Nikhil Kumar singh",
+        img: "https://avatars.githubusercontent.com/u/90950696?s…00&u=717b5dfdfb3285ba0f5678169c712181300252fd&v=4",
+        linkedin: "https://www.linkedin.com/in/nikhil-kumar-singh-8840aa222",
+        github: "https://github.com/Nikks-13",
+      }
+    ],
+  },
+  {
+    id: 6,
+    title: "Just Snaxx Food IOS App",
+    date: "Jan 2024",
+    description: "A dynamic food app using React Native, offering users a seamless experience in selecting and customizing multiple food and drink items to add to their carts. The app features a user-friendly interface that facilitates easy navigation and selection, allowing users to effortlessly manage their orders. In addition to the cart functionality, the app enables users to curate a personalized favorites list for quick access to preferred items. Post-checkout, users can conveniently track their order history, enhancing the overall user experience. This project showcases my adept skills in React Native, UI/UX design, and efficient data management, making it a compelling asset to highlight on my resume.",
+
+    image: "https://raw.githubusercontent.com/Nikks-13/Just_Snaxx_App/main/screenshot/demo.png",
+    tags: ["React-Native","Lottie-Files","Async Storage","React-Toast","TypeScript"],
+    category: "Mobile App",
+    github: "https://github.com/Nikks-13/Just_Snaxx_App",
+    webapp: "https://private-user-images.githubusercontent.com/90950696/298436109-c40ce6da-0467-473f-b816-d4179244e0be.mp4?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDU5Mjc3MDEsIm5iZiI6MTcwNTkyNzQwMSwicGF0aCI6Ii85MDk1MDY5Ni8yOTg0MzYxMDktYzQwY2U2ZGEtMDQ2Ny00NzNmLWI4MTYtZDQxNzkyNDRlMGJlLm1wND9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAxMjIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMTIyVDEyNDMyMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTA1NzQ3MjEzYjJjY2RjNTA5MGIwZTk2YTU1YTA2ZDY3Y2UwNGFkM2I5MTUwZWJhYTExOWUxZmQzZjQyNDRlZTcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.w-IR1KpDuZCvOc8NfbYzWYX9nsEGE6wRcCRPh0N4mYk",
+    member: [
+      {
+        name: "Nikhil Kumar singh",
+        img: "https://avatars.githubusercontent.com/u/90950696?s…00&u=717b5dfdfb3285ba0f5678169c712181300252fd&v=4",
+        linkedin: "https://www.linkedin.com/in/nikhil-kumar-singh-8840aa222",
+        github: "https://github.com/Nikks-13",
+      }
+    ],
+  },
+  
   
 ];
 
@@ -279,7 +319,7 @@ export const experiences = [
     company: "",
     date: "",
     desc: "",
-    skills: ["React",],
+    skills: ["",],
     doc: "",
   },
   {
@@ -289,7 +329,7 @@ export const experiences = [
     company: "",
     date: "",
     desc: "",
-    skills: ["React",],
+    skills: ["",],
     doc: "",
   },
 ];
