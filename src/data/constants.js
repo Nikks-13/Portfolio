@@ -187,7 +187,7 @@ export const project = [
       {
         name: "Nikhil Kumar singh",
         img: "https://avatars.githubusercontent.com/u/90950696?s…00&u=717b5dfdfb3285ba0f5678169c712181300252fd&v=4",
-        linkedin: "https://www.linkedin.com/in/nikhil-kumar-singh-8840aa222",
+        linkedin: "https://www.linkedin.com/in/justnixx13",
         github: "https://github.com/Nikks-13",
       }
     ],
@@ -206,7 +206,7 @@ export const project = [
       {
         name: "Nikhil Kumar singh",
         img: "https://avatars.githubusercontent.com/u/90950696?s…00&u=717b5dfdfb3285ba0f5678169c712181300252fd&v=4",
-        linkedin: "https://www.linkedin.com/in/nikhil-kumar-singh-8840aa222",
+        linkedin: "https://www.linkedin.com/in/justnixx13",
         github: "https://github.com/Nikks-13",
       }
     ],
@@ -225,7 +225,7 @@ export const project = [
       {
         name: "Nikhil Kumar singh",
         img: "https://avatars.githubusercontent.com/u/90950696?s…00&u=717b5dfdfb3285ba0f5678169c712181300252fd&v=4",
-        linkedin: "https://www.linkedin.com/in/nikhil-kumar-singh-8840aa222",
+        linkedin: "https://www.linkedin.com/in/justnixx13",
         github: "https://github.com/Nikks-13",
       }
     ],
@@ -244,7 +244,7 @@ export const project = [
       {
         name: "Nikhil Kumar singh",
         img: "https://avatars.githubusercontent.com/u/90950696?s…00&u=717b5dfdfb3285ba0f5678169c712181300252fd&v=4",
-        linkedin: "https://www.linkedin.com/in/nikhil-kumar-singh-8840aa222",
+        linkedin: "https://www.linkedin.com/in/justnixx13",
         github: "https://github.com/Nikks-13",
       }
     ],
@@ -263,7 +263,7 @@ export const project = [
       {
         name: "Nikhil Kumar singh",
         img: "https://avatars.githubusercontent.com/u/90950696?s…00&u=717b5dfdfb3285ba0f5678169c712181300252fd&v=4",
-        linkedin: "https://www.linkedin.com/in/nikhil-kumar-singh-8840aa222",
+        linkedin: "https://www.linkedin.com/in/justnixx13",
         github: "https://github.com/Nikks-13",
       }
     ],
@@ -282,7 +282,7 @@ export const project = [
       {
         name: "Nikhil Kumar singh",
         img: "https://avatars.githubusercontent.com/u/90950696?s…00&u=717b5dfdfb3285ba0f5678169c712181300252fd&v=4",
-        linkedin: "https://www.linkedin.com/in/nikhil-kumar-singh-8840aa222",
+        linkedin: "https://www.linkedin.com/in/justnixx13",
         github: "https://github.com/Nikks-13",
       }
     ],
@@ -302,7 +302,7 @@ export const project = [
       {
         name: "Nikhil Kumar singh",
         img: "https://avatars.githubusercontent.com/u/90950696?s…00&u=717b5dfdfb3285ba0f5678169c712181300252fd&v=4",
-        linkedin: "https://www.linkedin.com/in/nikhil-kumar-singh-8840aa222",
+        linkedin: "https://www.linkedin.com/in/justnixx13",
         github: "https://github.com/Nikks-13",
       }
     ],
