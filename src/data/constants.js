@@ -307,6 +307,26 @@ export const project = [
       }
     ],
   },
+  {
+    id: 7,
+    title: "Just Dev-Resources",
+    date: "Jan 2024",
+    description: "A simple Website Where i mentioned all the tools which i used in my development of website or mobile application   ",
+
+    image: "https://raw.githubusercontent.com/Nikks-13/Dev_Resources/main/screenshot/1.png",
+    tags: ["React-Js","Lottie-Files"],
+    category: "Web App",
+    github: "https://github.com/Nikks-13/Dev_Resources",
+    webapp: "https://just-resources.netlify.app",
+    member: [
+      {
+        name: "Nikhil Kumar singh",
+        img: "https://avatars.githubusercontent.com/u/90950696?s…00&u=717b5dfdfb3285ba0f5678169c712181300252fd&v=4",
+        linkedin: "https://www.linkedin.com/in/justnixx13",
+        github: "https://github.com/Nikks-13",
+      }
+    ],
+  },
   
   
 ];
